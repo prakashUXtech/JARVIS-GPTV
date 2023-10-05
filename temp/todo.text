@@ -1,0 +1,10 @@
+- Add script to run JS code.
+- Ability to make images using Replicate Ai 
+- Ability call or message using twillio or some other APIs
+- stream text
+
+A Interface for welcome screen
+- check ask for Open AI key, Serpapi key(can skip), Tiwllio key, Replicate key
+
+- Save each file in a folder called Project and run it from
+there.
