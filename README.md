@@ -17,7 +17,7 @@ JARVIS-GPTV is a powerful CLI tool built on Node.js, leveraging the capabilities
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/prakashd88/JARVIS-GPTV.git
+git clone https://github.com/prakashUXtech/JARVIS-GPTV.git
 ```
 
 2. Navigate to the JARVIS-GPTV directory:
@@ -32,7 +32,7 @@ bun install
 
 4. Set up your OpenAI API key:
 ```bash
-export OPENAI_API_KEY='your_openai_api_key'
+edit .env exmaple
 ```
 
 ## Usage
@@ -50,7 +50,7 @@ Then, simply type in your request or question!
 1. **Converse with JARVIS**:
     ```bash
     > How are you today, JARVIS?
-    JARVIS: I'm just a program, so I don't have feelings, but I'm functioning optimally! How can I assist you?
+    JARVIS: "I'm just a program, so I don't have feelings, but I'm functioning optimally! How can I assist you?"
     ```
 
 2. **Generate an Image**:
@@ -80,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-For more information, issues, or if you'd like to get in touch, please [visit our GitHub repository](https://github.com/yourusername/JARVIS-GPTV).
+For more information, issues, or if you'd like to get in touch, please [visit our GitHub repository](https://github.com/prakashUXtech/JARVIS-GPTV).
