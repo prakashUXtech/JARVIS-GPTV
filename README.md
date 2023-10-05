@@ -2,7 +2,7 @@
 
 <!-- ![JARVIS-GPTV Logo](path/to/logo.png) -->
 
-JARVIS-GPTV is a powerful CLI tool built on Node.js, leveraging the capabilities of OpenAI's ChatGPT. With it, you can communicate directly through your terminal, requesting a variety of tasks ranging from generating images to complex system commands.
+JARVIS-GPTV is a powerful CLI tool built on bun.js, leveraging the capabilities of OpenAI's API. With it, you can communicate directly through your terminal, requesting a variety of tasks ranging from generating images to complex system commands.
 
 ## Features
 
