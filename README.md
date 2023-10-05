@@ -75,6 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+- Heavily inspired by [Killian's Open-Interpreter](https://github.com/KillianLucas/open-interpreter)
 - OpenAI for their amazing ChatGPT API.
 - Replicate AI for their Image generation API
 - SerpAPI for search
