@@ -56,13 +56,13 @@ Then, simply type in your request or question!
 2. **Generate an Image**:
     ```bash
     > Generate an image of a serene beach at sunset.
-    JARVIS: [Generates and provides a link or displays the image]
+    JARVIS: "[Generates and provides a link or displays the image]"
     ```
 
 3. **Execute System Commands**:
     ```bash
     > Create a new directory named "test".
-    JARVIS: Directory "test" created successfully!
+    JARVIS: "Directory "test" created successfully!"
     ```
 
 ## Contribution
@@ -76,6 +76,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - OpenAI for their amazing ChatGPT API.
+- Replicate AI for their Image generation API
+- SerpAPI for search
 - All contributors and users of JARVIS-GPTV.
 
 ---
