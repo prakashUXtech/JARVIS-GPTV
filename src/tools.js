@@ -1,7 +1,7 @@
 import { DynamicStructuredTool, DynamicTool, SerpAPI } from "langchain/tools";
 import { z } from "zod";
-import { executeCode } from "./runCode/executeCode.js";
-import { generateAndSaveImage, readImage } from "./runCode/runReplicate.js";
+import { executeCode } from "../runCode/executeCode.js";
+import { generateAndSaveImage, readImage } from "../runCode/runReplicate.js";
 
 const executeCodeTool = new DynamicStructuredTool({
     name: "executeCode",
