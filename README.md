@@ -16,11 +16,12 @@ By default it uses gpt-3.5-turbo.
 - **System Tasks**: Perform a wide range of tasks on your machine, from creating files to executing complex bash, AppleScript, and other CLI scripts.
 
 ## Installation
-Node or Bun Installed on your machine
+- Node or Bun Installed on your machine
+
 And these APIs
-OPENAI_API_KEY =  [get here](https://openai.com/blog/openai-api)
-SERPAPI_API_KEY = [get here](https://serpapi.com/)
-REPLICATE_API_TOKEN = [get here](https://replicate.com/)
+- OPENAI_API_KEY =  [get here](https://openai.com/blog/openai-api)
+- SERPAPI_API_KEY = [get here](https://serpapi.com/)
+- REPLICATE_API_TOKEN = [get here](https://replicate.com/)
 
 ## Installation
 
