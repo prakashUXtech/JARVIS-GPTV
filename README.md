@@ -4,6 +4,8 @@
 
 JARVIS-GPTV is a powerful CLI tool built on bun.js, leveraging the capabilities of OpenAI's API. With it, you can communicate directly through your terminal, requesting a variety of tasks ranging from generating images to complex system commands.
 
+By default it uses gpt-3.5-turbo.
+
 ## Features
 
 - **Converse with JARVIS**: Directly chat with the tool using natural language.
@@ -12,6 +14,13 @@ JARVIS-GPTV is a powerful CLI tool built on bun.js, leveraging the capabilities 
 - **Web Search**: Ask JARVIS to search the web and return concise results.
 - **Code Generation**: Describe your requirements and let JARVIS generate the code for you.
 - **System Tasks**: Perform a wide range of tasks on your machine, from creating files to executing complex bash, AppleScript, and other CLI scripts.
+
+## Installation
+Node or Bun Installed on your machine
+And these APIs
+OPENAI_API_KEY =  [get here](https://openai.com/blog/openai-api)
+SERPAPI_API_KEY = [get here](https://serpapi.com/)
+REPLICATE_API_TOKEN = [get here](https://replicate.com/)
 
 ## Installation
 
@@ -40,7 +49,7 @@ edit .env exmaple
 To start a conversation with JARVIS, use the following command:
 
 ```bash
-bun JARVIS.js
+bun run jarvis
 ```
 
 Then, simply type in your request or question!
@@ -76,7 +85,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Heavily inspired by [Killian's Open-Interpreter](https://github.com/KillianLucas/open-interpreter)
-- OpenAI for their amazing ChatGPT API.
+- OpenAI for their amazing API.
+- Langchianjs (Its not perfect yet, but it helped on lots of things like memoery etc)
 - Replicate AI for their Image generation API
 - SerpAPI for search
 - All contributors and users of JARVIS-GPTV.
